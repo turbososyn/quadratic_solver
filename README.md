@@ -36,13 +36,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-### 3. Install Dependencies (if any)
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run (Interactive Mode)
+### 3. Run (Interactive Mode)
 
 ```bash
 python main.py
@@ -50,7 +44,7 @@ python main.py
 
 You will be prompted to enter the coefficients `a`, `b`, and `c`.
 
-### 5. Run (Non-Interactive Mode)
+### 4. Run (Non-Interactive Mode)
 
 ```bash
 python main.py input.txt
